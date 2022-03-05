@@ -1,0 +1,35 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: black;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Lobster", cursive;
+}
+
+h2 {
+  color: blue;
+}
+
+header h2 {
+  color: red;
+}
+
+.jumbotron {
+  padding: 30px;
+  background-color: blue;
+  color: white;
+  margin: 0;
+}
+
+.navbar {
+    background-color: green;
+}
+
+footer {
+  background-color: orange;
+  padding: 20px 0;
+  color: white;
+}
